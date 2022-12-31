@@ -13,6 +13,8 @@ How to use:
  should be the triViewed, if it doesn't work try triTransformed, if nothing works abandon the method, drawTri() is the 
  version where all triangles are drawn, if you wanna remove culling change vecDotPro(normal, camRay)>0.0f to true
  
+ also clean the unused imports they're just things i was too lazy to get rid of
+ 
  that's it
  
  
